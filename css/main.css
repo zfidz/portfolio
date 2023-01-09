@@ -1,0 +1,4 @@
+.project {
+    /* add a transition for the project elements */
+    transition: transform 0.5s ease-in-out;
+  }
