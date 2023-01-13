@@ -266,7 +266,7 @@ input {
 
 /*===== Home Section =====*/
 .home {
-  background: url("../img/home-bg.jpg");
+  background: url("../img/bkgnd.jpg");
   background-size: cover;
   background-position: center center;
   height: 100vh;
